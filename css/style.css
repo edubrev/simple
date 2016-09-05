@@ -1,6 +1,9 @@
 body{
   margin: 0;
+  background: #4cc;
 }
 h1{
   color: #0f9;
+  font-size: 30px;
+  text-transform: uppercase;
 }
