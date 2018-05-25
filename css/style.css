@@ -1,8 +1,15 @@
 body{
   margin: 0;
   background: #ccc;
+
+}
+.frame{
   width: 980px;
   margin: 0 auto;
+}
+.header{
+  background: #fff;  
+  padding: 20px 0;
 }
 h1{
   color: #90f;
